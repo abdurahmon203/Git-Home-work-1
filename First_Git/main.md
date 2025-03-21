@@ -39,3 +39,9 @@
 - Track bugs, plan features, and manage tasks.
 #### 4. Actions & CI/CD
 - Automate workflows like testing and deployment.
+#
+# ✅ Why Are They Important ?
+- Git keeps your code organized and safe.
+- GitHub makes collaboration and sharing easy.
+- Together, they are essential tools for modern software development!
+#
